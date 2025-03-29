@@ -6,10 +6,10 @@
     box-sizing: border-box;
   }
 :root {
-    --laranja-claro: #200e0050;
-    --alto-contraste-fundo: #0000000c;
+    --laranja-claro: #00000050;
+    --alto-contraste-fundo: #180b0bfd;
     --alto-contraste-texto: #0f0101;
-    --alto-contraste-link: #abd39c;
+    --alto-contraste-link: #cfe9c6;
     --filament-saturation: 0;
     --filament-lightness: 40;
     --fitting-lightness: 30;
