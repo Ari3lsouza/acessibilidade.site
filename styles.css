@@ -6,9 +6,9 @@
     box-sizing: border-box;
   }
 :root {
-    --laranja-claro: #bb8c6850;
-    --alto-contraste-fundo: #1a0a0a0c;
-    --alto-contraste-texto: #ffffff;
+    --laranja-claro: #200e0050;
+    --alto-contraste-fundo: #0000000c;
+    --alto-contraste-texto: #0f0101;
     --alto-contraste-link: #abd39c;
     --filament-saturation: 0;
     --filament-lightness: 40;
