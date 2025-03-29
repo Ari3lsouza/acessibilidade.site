@@ -9,7 +9,7 @@
     --laranja-claro: #bb8c6850;
     --alto-contraste-fundo: #1a0a0a0c;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #2b2711;
+    --alto-contraste-link: #abd39c;
     --filament-saturation: 0;
     --filament-lightness: 40;
     --fitting-lightness: 30;
@@ -36,7 +36,7 @@ section {
 
 
 .nav-link {
-    color: #c7c7c7;
+    color: #b4e08a;
     font-weight: 600;
 }
 
